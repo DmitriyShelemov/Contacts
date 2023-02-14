@@ -1,0 +1,11 @@
+.vs/
+ContactsApi.Database/bin/
+ContactsApi.Database/obj/
+ContactsApi.Domain/bin/
+ContactsApi.Domain/obj/
+ContactsApi.Logic/bin/
+ContactsApi.Logic/obj/
+ContactsApi.Repository/bin/
+ContactsApi.Repository/obj/
+ContactsApi.Web/bin/
+ContactsApi.Web/obj/
